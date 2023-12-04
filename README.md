@@ -1,6 +1,6 @@
 **Olá, sou Armando Joergensen!**
 
-Sou desenvolvedor mobile front-end no Brasil 🇧🇷, ultimamente venho construindo diversos Apps legais com React Native.
+Desenvolvedor JavaScript com mais de 5 anos de experiência, apaixonado pelo universo do desenvolvimento mobile. Minha principal expertise está no React Native, onde venho aprimorando minhas habilidades e contribuindo para o desenvolvimento de soluções inovadoras. Além disso, estou fortalecendo meu conhecimento em SwiftUI, ampliando assim minha versatilidade no cenário de desenvolvimento para dispositivos móveis.
 
 Para conversarmos um pouco, pode me enviar um e-mail ou dm no linkedin. Aguardo você 😀
 
