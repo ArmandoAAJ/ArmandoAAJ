@@ -2,10 +2,13 @@
 
 Desenvolvedor JavaScript com mais de 5 anos de experiência, apaixonado pelo universo do desenvolvimento mobile. Minha principal expertise está no React Native, onde venho aprimorando minhas habilidades e contribuindo para o desenvolvimento de soluções inovadoras. Além disso, estou fortalecendo meu conhecimento em SwiftUI, ampliando assim minha versatilidade no cenário de desenvolvimento para dispositivos móveis.
 
-Para conversarmos um pouco, pode me enviar um e-mail ou dm no linkedin. Aguardo você 😀
+Para conversarmos um pouco, pode me enviar um e-mail ou dm no linkedin ou X. Aguardo você 😀
 
   <a href = "mailto:armandoarlanjoergensen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/armandoaaj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://twitter.com/ArmandoAAJ" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+</a>
 
 <div>
   <a href="https://github.com/ArmandoAAJ">
